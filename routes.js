@@ -19,7 +19,7 @@ import LerLivroScreen from "./src/screens/LerLivro";
 
 export const StackNavigate = () => {
     return (
-        <Stack.Navigator initialRouteName="Home" screenOptions={{headerShown: false}}>
+        <Stack.Navigator initialRouteName="Login" screenOptions={{headerShown: false}}>
             <Stack.Screen
                 name="Home"
                 component={DrawerNavigate}
