@@ -1,0 +1,13 @@
+const CORES = {
+    COR_PRIMARIA: '#F0601B',
+    COR_FUNDO_PRETO: '#252525',
+    COR_BRANCA: '#FFFEFE',
+    COR_INPUT:'#252525',
+    COR_BORDA_INPUT: '#464646',
+    COR_DESCONTO: '#CE2B2B',
+    COR_PRECO:'#FF9D00'    
+};
+
+export {
+    CORES
+}
